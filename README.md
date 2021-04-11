@@ -1,5 +1,5 @@
 <h1>Installation Instructions</h1>
-<h2>Google Chrome<h2>
+<h2>Google Chrome</h2>
 <ul>
   <li>Download this repo as a ZIP file from GitHub.</li>
   <li>Unzip the file and you should have a folder named tc2000-seekingalphaearnings.</li>
