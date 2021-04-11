@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "TC2000 News - Seeking Alpha Earnings Replacement",
+  "version": "0.1.0",
+  "description": "Replace Google News with Seeking Alpha Earnings page",
+
+  "content_scripts": [{
+    "js": ["content.js"],
+    "matches": ["https://cloud.tc2000.com/finance*"],
+    "run_at": "document_end"
+  }],
+  "permissions": ["tabs"]
+}
